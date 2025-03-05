@@ -85,11 +85,6 @@
             <version>2.10.1</version>
         </dependency>
         <dependency>
-            <groupId>io.qameta.allure</groupId>
-            <artifactId>allure-junit4</artifactId>
-            <version>2.22.0</version>
-        </dependency>
-        <dependency>
             <!-- модуль взаимодействия Allure и RestAssured -->
             <groupId>io.qameta.allure</groupId>
             <artifactId>allure-rest-assured</artifactId>
